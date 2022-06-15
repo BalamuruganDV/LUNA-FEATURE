@@ -610,7 +610,7 @@ def main():
             LOGGER.warning(e.message)
 
 
-    test_handler = CommandHandler("t
+ 
 
 
 
