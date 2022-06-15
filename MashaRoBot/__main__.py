@@ -636,7 +636,7 @@ def main():
 
 
 
-
+dispatcher.add_error_handler(error_callback)
 
     if WEBHOOK:
         LOGGER.info("Using webhooks.")
